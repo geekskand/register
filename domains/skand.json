@@ -1,0 +1,11 @@
+{
+  "description": "Skand",
+  "repo": "https://github.com/geekskand.github.io",
+  "owner": {
+    "username": "geekskand",
+    "email": "skandkm0001@gmail.com"
+  },
+  "record": {
+    "CNAME": "geekskand.github.io"
+  }
+}
